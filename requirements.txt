@@ -29,7 +29,7 @@ mplcursors==0.5.3
 numpy==1.26.4
 packaging==24.1
 pandas==2.2.2
-pillow==10.4.0
+pillow==12.1.1
 proto-plus==1.24.0
 protobuf==5.27.3
 pyarrow==17.0.0
